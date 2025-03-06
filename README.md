@@ -1,2 +1,2 @@
-# repo-demo
-This is a new repository
+# Repo-demo
+This is a new repository.
